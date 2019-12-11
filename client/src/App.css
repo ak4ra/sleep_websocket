@@ -1,0 +1,8 @@
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+.display_item {
+  padding: 1rem 1rem;
+}
